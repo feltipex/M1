@@ -8,7 +8,7 @@
 
 ![Captura2](https://user-images.githubusercontent.com/63891610/151597803-b8691e5e-85a8-40cf-a2b6-ef7ec4a253f0.png)
 
-###
+### 3. Fem un nou disc dur. 
 
 ![C aptura3](https://user-images.githubusercontent.com/63891610/151597801-9e14b405-11ea-40c0-9368-9d92ac90ff19.png)
 
