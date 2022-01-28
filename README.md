@@ -1,10 +1,10 @@
 # Instal·lació de Linux en VirtualBox
 
-### 1. Creem, nombrem i indiquem la nova màquina virtual.
+### 1. Creem, nombrem i indiquem la versió de la nova màquina virtual.
 
 ![Captura 1](https://user-images.githubusercontent.com/63891610/151597810-02bb7aab-b800-453f-bf6e-323c35059a18.png)
 
-####
+### 
 
 ![Captura2](https://user-images.githubusercontent.com/63891610/151597803-b8691e5e-85a8-40cf-a2b6-ef7ec4a253f0.png)
 
