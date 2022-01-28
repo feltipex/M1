@@ -1,7 +1,7 @@
 # M1
 
-## Instal·lació de Linux en VirtualBox
+# Instal·lació de Linux en VirtualBox
 
-### Creació de la máquina virtual
+# Creació de la máquina virtual
 
-#### Instalació d'Ubuntu
+# Instalació d'Ubuntu
