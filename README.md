@@ -24,6 +24,16 @@
 
 ![Captura6](https://user-images.githubusercontent.com/63891610/151597808-cc27566b-a13a-49d1-a04a-9eab5e83e2bc.png)
 
+### 7. Indiquem on és l'ISO.
+
+![Captura7](https://user-images.githubusercontent.com/63891610/151599967-606df24e-8ab4-4440-8a44-21baa4bc170b.png)
+
+### 8. Seleccionem el nostre ISO.
+
+![Captura8](https://user-images.githubusercontent.com/63891610/151599983-a39b8527-4ce3-433c-82ac-199b246940d7.png)
+
+### 9. Disfruta!
+
 # Creació de la máquina virtual
 
 # Instalació d'Ubuntu
