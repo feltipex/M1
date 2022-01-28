@@ -4,7 +4,7 @@
 
 ![Captura 1](https://user-images.githubusercontent.com/63891610/151597810-02bb7aab-b800-453f-bf6e-323c35059a18.png)
 
-### 2.Indiquem la memoria RAM que consumirà.
+### 2. Indiquem la memoria RAM que consumirà. (En aquest cas 4GB es el indicat)
 
 ![Captura2](https://user-images.githubusercontent.com/63891610/151597803-b8691e5e-85a8-40cf-a2b6-ef7ec4a253f0.png)
 
