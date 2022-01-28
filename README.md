@@ -12,7 +12,7 @@
 
 ![C aptura3](https://user-images.githubusercontent.com/63891610/151597801-9e14b405-11ea-40c0-9368-9d92ac90ff19.png)
 
-###
+### 4. Indiquem la codificació del disc dur virtual. (VDI es l'estàndar)
 
 ![Captura4](https://user-images.githubusercontent.com/63891610/151597805-94017b5e-fd58-4472-87bf-61b69455cc30.png)
 
