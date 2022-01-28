@@ -16,11 +16,11 @@
 
 ![Captura4](https://user-images.githubusercontent.com/63891610/151597805-94017b5e-fd58-4472-87bf-61b69455cc30.png)
 
-###
+### 5. Indiquem la forma d'utlització del disc dur. (Lo més recomanable es Dinàmica)
 
 ![Captura5](https://user-images.githubusercontent.com/63891610/151597806-a01c0624-9b43-498d-a10b-f573365a28ee.png)
 
-###
+### 6. Indiquem quant d'espai del disc dur pot utilitzar.
 
 ![Captura6](https://user-images.githubusercontent.com/63891610/151597808-cc27566b-a13a-49d1-a04a-9eab5e83e2bc.png)
 
